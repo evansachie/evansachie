@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evans Acheampong</h1>
 <h3 align="center">I'm a computer engineering student with a passion for programming and problem-solving. Self-motivated and optimistic, eager to learn and teach others. Ready to apply their skills to real-world projects and make a positive impact in the tech industry.</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awesome04" alt="awesome04" /></a> </p>
 
 - 🔭 I’m currently working on [Smart Home Technology](https://github.com/AWESOME04/Smart-House)
 
@@ -32,6 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awesome04&show_icons=true&locale=en" alt="awesome04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awesome04&" alt="awesome04" /></p>
-
-
 
