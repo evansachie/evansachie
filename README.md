@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **evansachie01@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/cjkEP](shorturl.at/cjkEP)
+- 📄 Know about my experiences [RESUME](shorturl.at/cjkEP)
 
 - ⚡ Fun fact **I Love ANIME**
 
