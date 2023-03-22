@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Smart Home Technology](https://github.com/AWESOME04/Smart-House)
 
-- 🌱 I’m currently learning **Web Development, Data Science and Machine Learning with Python, C++ and AI**
+- 🌱 I’m currently learning **Web Development, Data Science and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning and AI projects**
 
