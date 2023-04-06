@@ -29,5 +29,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awesome04&" alt="awesome04" /></p>
 
 
-
 [![ Evans' GitHub stats](https://github-readme-stats.vercel.app/api?username=AWESOME04)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AWESOME04)](https://github.com/ryo-ma/github-profile-trophy)
