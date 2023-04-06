@@ -30,5 +30,3 @@
 
 
 [![ Evans' GitHub stats](https://github-readme-stats.vercel.app/api?username=AWESOME04)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ Trophies](https://github-profile-trophy.vercel.app/?username=AWESOME04&row=2&column=3)
