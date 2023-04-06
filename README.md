@@ -26,8 +26,8 @@
 <a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AWESOME04&theme=react&line_height=40&hide=css"/> </a>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awesome04&" alt="awesome04" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awesome04&theme=radical" alt="awesome04" /></p>
 
 
-![ Evans' GitHub stats](https://github-readme-stats.vercel.app/api?username=AWESOME04&show_icons=true)
+![ Evans' GitHub stats](https://github-readme-stats.vercel.app/api?username=AWESOME04&show_icons=true&theme=radical)
 
