@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Evans Acheampong</h1>
 <h3 align="center">A computer engineering student with a passion for programming and problem-solving. Self-motivated and optimistic, eager to learn and teach others. Ready to apply my skills to real-world projects and make a positive impact in the tech industry.</h3>
 
-- 🔭 I’m currently working on [Smart Home Technology](https://github.com/AWESOME04/Smart-House)
+- 🔭 I’m currently working on [Smart Home Technology 🏠](https://github.com/AWESOME04/Smart-House)
 
-- 🌱 I’m currently learning **Web Development, Data Science and Machine Learning**
+- 🌱 I’m currently learning **Web Development , Data Science and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning and AI projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AWESOME04?tab=repositories](https://github.com/AWESOME04?tab=repositories)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/AWESOME04?tab=repositories)
 
 - 💬 Ask me about **Machine Learning, AI, Python**
 
 - 📫 How to reach me **evansachie01@gmail.com**
 
-- ⚡ Fun fact: **I Love ANIME**
+- ⚡ Fun fact: **I Love ANIME **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
