@@ -29,6 +29,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awesome04&" alt="awesome04" /></p>
 
 
-[![ Evans' GitHub stats](https://github-readme-stats.vercel.app/api?username=AWESOME04&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ Evans' GitHub stats](https://github-readme-stats.vercel.app/api?username=AWESOME04&show_icons=true)]
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
