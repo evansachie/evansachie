@@ -38,3 +38,12 @@
 
 ![ Evans' GitHub stats](https://github-readme-stats.vercel.app/api?username=AWESOME04&show_icons=true&theme=radical)
 
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awesome04&show_icons=true&locale=en&layout=compact" alt="awesome04" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awesome04&show_icons=true&locale=en" alt="awesome04" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awesome04&" alt="awesome04" /></p>
+
