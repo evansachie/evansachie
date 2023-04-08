@@ -41,7 +41,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awesome04&show_icons=true&locale=en&layout=compact" alt="awesome04" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awesome04&show_icons=true&locale=en&layout=compact&theme=react&line_height=40&hide=css&" alt="awesome04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awesome04&show_icons=true&locale=en" alt="awesome04" /></p>
 
