@@ -41,3 +41,5 @@
 
 ![ Evans' GitHub stats](https://github-readme-stats.vercel.app/api?username=AWESOME04&show_icons=true&theme=radical)
 
+![](https://komarev.com/ghpvc/?username=AWESOME04)
+
