@@ -37,9 +37,6 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=awesome04&show_icons=true&locale=en&layout=compact&theme=radical&line_height=40&hide=css&" alt="awesome04" /></p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awesome04&theme=radical" alt="awesome04" /></p>
 
-
 ![ Evans' GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AWESOME04&show_icons=true&theme=radical)
-
