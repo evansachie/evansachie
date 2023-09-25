@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/AWESOME04?tab=repositories)
 
-- 💬 Ask me about **Machine Learning, AI, Python**
+- 💬 Ask me about **Machine Learning, AI, Python** 
 
 - 📫 How to reach me **evansachie01@gmail.com**
 
