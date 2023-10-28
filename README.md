@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evans Acheampong</h1>
-<h3 align="center">👋 Hey there, I'm Evans, a Computer Engineering student 🎓, with a solid foundation in programming, software development, and computer science theory. 💻 I am skilled in Python, C++, and enjoy creating web and mobile applications🌐📱
-
-When I'm not immersed in coding, you'll likely find me gaming 🎮 or exploring the thrilling world of anime 👀. I'm also passionate about staying up-to-date with the latest tech trends. 
-
-I'm always eager to learn new technologies and am currently diving into the fascinating realms of data science and machine learning. 🤖
-
-🚀I'm always open to new opportunities and collaborations in the tech space. Feel free to reach out to me for any exciting prospects! 🌍💼🌟.</h3> 
+<h3 align="center">A computer engineering student with a passion for programming and problem-solving. Self-motivated and optimistic, eager to learn and teach others. Ready to apply my skills to real-world projects and make a positive impact in the tech industry.</h3> 
 
 
 - 🔭 I’m currently working on a [Database Driven Mobile and Web Application 📱](https://github.com/AWESOME04/Database-Driven-Web-and-Mobile-Application)
