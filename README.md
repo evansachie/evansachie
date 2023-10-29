@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a [Database Driven Mobile and Web Application 📱](https://github.com/AWESOME04/Database-Driven-Web-and-Mobile-Application)
 
-- 🌱 I’m currently learning **Web Development , Data Science and Machine Learning**
+- 🌱 I’m currently learning **Web Development and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning and AI projects**
 
