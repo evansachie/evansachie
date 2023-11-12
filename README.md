@@ -2,19 +2,19 @@
 <h3 align="center">A computer engineering student with a passion for programming and problem-solving. Self-motivated and optimistic, eager to learn and teach others. Ready to apply my skills to real-world projects and make a positive impact in the tech industry.</h3> 
 
 
-- 🔭 I’m currently working on a [Database Driven Mobile and Web Application 📱](https://github.com/AWESOME04/Database-Driven-Web-and-Mobile-Application)
+- 🔭 I’m currently working on improving my knowledge on [DSA](https://github.com/AWESOME04/Competitive-Programming)
 
-- 🌱 I’m currently learning **Web Development and Machine Learning**
+- 🌱 I’m currently learning **Web Development, AI/ML and DSA**
 
-- 👯 I’m looking to collaborate on **Machine Learning and AI projects**
+- 👯 I’m looking to collaborate on **Web Development and ML projects**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/AWESOME04?tab=repositories)
 
-- 💬 Ask me about **Machine Learning, AI, Python** 
+- 💬 Ask me about **Attack on Titan** 
 
 - 📫 How to reach me **evansachie01@gmail.com**
 
-- ⚡ Fun fact: **I Love ANIME**
+- ⚡ Fun fact: **I LOVE ANIME**
 
 
 
