@@ -2,7 +2,7 @@
 <h3 align="center">A computer engineering student with a passion for programming and problem-solving. Self-motivated and optimistic, eager to learn and teach others. Ready to apply my skills to real-world projects and make a positive impact in the tech industry.</h3> 
 
 
-- 🔭 I’m currently working on improving my knowledge on [DSA](https://github.com/AWESOME04/Competitive-Programming)
+- 🔭 I’m currently working on [pokeapi](https://github.com/AWESOME04/pokeapi)
 
 - 🌱 I’m currently learning **Web Development, AI/ML and DSA**
 
