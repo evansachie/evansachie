@@ -1,21 +1,28 @@
-<h1 align="center">Hi 👋, I'm Evans Acheampong</h1>
-<h3 align="center">A computer engineering student with a passion for programming and problem-solving. Self-motivated and optimistic, eager to learn and teach others. Ready to apply my skills to real-world projects and make a positive impact in the tech industry.</h3> 
+![github-header-image](https://github.com/AWESOME04/AWESOME04/assets/102630199/a446339b-c8b5-4756-bbe4-ad39c50eae89)
 
+<p>
+  <h3> Few words about Me</h3>
+  <img align="right" widht="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
+  
+- 🖥️ Computer Engineering student & Aspiring Full-Stack developer.
 
 - 🔭 I’m currently working on [pokeapi](https://github.com/AWESOME04/pokeapi)
 
-- 🌱 I’m currently learning **Web Development, AI/ML and DSA**
-
-- 👯 I’m looking to collaborate on **Web Development and ML projects**
+- 🌱 I’m learning **Web Development, AI/ML and [DSA](https://github.com/AWESOME04/Competitive-Programming)**
+  
+- 🎮 I'm a gamer, my favourite game genres are: **fps, mmo-rpg, strategy**
+  
+- 😁✌️ Enthusiastic about UI/UX Design, Game development and ANIME .
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/AWESOME04?tab=repositories)
-
-- 💬 Ask me about **Attack on Titan** 
-
-- 📫 How to reach me **evansachie01@gmail.com**
+  
+- 💬 Ask me about **Attack on Titan**
+ 
+- 📫 How to reach me: **evansachie01@gmail.com**
 
 - ⚡ Fun fact: **I LOVE ANIME**
 
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
