@@ -12,7 +12,7 @@
   
 - 🎮 I'm a gamer, my favourite game genres are: **fps, mmo-rpg, strategy**
   
-- 😁✌️ Enthusiastic about UI/UX Design, Game development and ANIME .
+- 😁✌️ Enthusiastic about [UI/UX Design](https://github.com/AWESOME04/UI-UX-Design-Projects) , Game development and ANIME .
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/AWESOME04?tab=repositories)
   
