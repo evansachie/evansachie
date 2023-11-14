@@ -29,7 +29,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/evans-acheampong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/evans-acheampong-982315232/" height="30" width="40" /></a>
 <a href="https://kaggle.com/evans acheampong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="evans acheampong" height="30" width="40" /></a>
-<a href="https://medium.com/@evansachie01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@evansachie01" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/evans acheampong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="evans acheampong" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/evansachie01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="evansachie01" height="30" width="40" /></a>
 </p>
