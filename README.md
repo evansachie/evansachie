@@ -20,7 +20,7 @@
  
 - 📫 How to reach me: **evansachie01@gmail.com**
 
-- ⚡ Fun fact: **I LOVE ANIME**
+- ⚡ Fun fact: **I LOVE ANIME** 
 
 </p>
 
