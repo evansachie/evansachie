@@ -6,7 +6,7 @@
   
 - 🖥️ Computer Engineering student & Aspiring Full-Stack developer.
 
-- 🔭 I’m currently working on [pokeapi](https://github.com/AWESOME04/pokeapi)
+- 🔭 I’m currently working on [StudentConnect](https://github.com/AWESOME04/StudentConnect)
 
 - 🌱 I’m learning **Web Development, AI/ML and [DSA](https://github.com/AWESOME04/Competitive-Programming)**
   
