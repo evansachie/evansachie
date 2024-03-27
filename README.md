@@ -43,7 +43,7 @@
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=awesome04&show_icons=true&locale=en&layout=compact&theme=radical&line_height=40&hide=css&" alt="awesome04" width="400" />
 </p>
 
-<p align="right">
+<p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awesome04&theme=radical" alt="awesome04" width="400" />
 </p>
 
