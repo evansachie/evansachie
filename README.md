@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [StudentConnect](https://github.com/AWESOME04/StudentConnect)
 
-- 🌱 I’m learning **Web Development, AI/ML and [DSA](https://github.com/AWESOME04/Competitive-Programming)**
+- 🌱 I’m learning **[Backend Development with .NET core](https://github.com/AWESOME04/a2sv-project-phase) and [DSA](https://github.com/AWESOME04/Competitive-Programming)**
   
 - 🎮 I'm a gamer, my favourite game genres are: **fps, mmo-rpg, strategy**
   
