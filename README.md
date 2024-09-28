@@ -6,7 +6,7 @@
   
 - 🖥️ Computer Engineering student & Aspiring Full-Stack developer.
 
-- 🔭 I’m currently working on [The Lighthouse Portal](https://lighthouse-q5b7.onrender.com/)
+- 🔭 I’m currently working on [The Lighthouse Portal](https://www.lighthouse-portal.com/)
 
 - 🌱 I’m learning **[Backend Development with .NET core](https://github.com/AWESOME04/a2sv-project-phase) and [DSA](https://github.com/AWESOME04/Competitive-Programming)**
   
