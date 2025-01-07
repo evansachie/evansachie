@@ -6,8 +6,6 @@
   
 - 🖥️ Computer Engineering student & Aspiring Full-Stack developer.
 
-- 🔭 I’m currently working on [The Lighthouse Portal](https://www.lighthouse-portal.com/)
-
 - 🌱 I’m learning **[Backend Development with .NET core](https://github.com/AWESOME04/a2sv-project-phase) and [DSA](https://github.com/AWESOME04/Competitive-Programming)**
   
 - 🎮 I'm a gamer, and my favorite game genres are: **fps, mmo-rpg, and strategy**
