@@ -6,15 +6,15 @@
   
 - 🖥️ Computer Engineering student & Aspiring Full-Stack developer.
 
-- 🔭 I’m currently working on [LifeGuard](https://github.com/AWESOME04/LifeGuard)
+- 🔭 I’m currently working on [LifeGuard](https://github.com/evansachie/LifeGuard)
 
-- 🌱 I’m learning **[Backend Development with .NET core](https://github.com/AWESOME04/a2sv-project-phase) and [DSA](https://github.com/AWESOME04/Competitive-Programming)**
+- 🌱 I’m learning **[Backend Development with .NET core](https://github.com/evansachie/a2sv-project-phase) and [DSA](https://github.com/evansachie/Competitive-Programming)**
   
 - 🎮 I'm a gamer, and my favorite game genres are: **fps, mmo-rpg, and strategy**
   
 - 😁✌️ Enthusiastic about UI/UX Design, Full stack development, and ANIME.
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/AWESOME04?tab=repositories)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/evansachie?tab=repositories)
   
 - 💬 Ask me about **Attack on Titan**
  
@@ -38,18 +38,18 @@
 
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=awesome04&show_icons=true&locale=en&layout=compact&theme=radical&line_height=40&hide=css&" alt="awesome04" width="400" />
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=evansachie&show_icons=true&locale=en&layout=compact&theme=radical&line_height=40&hide=css&" alt="evansachie" width="400" />
 </p>
 
 <br/>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awesome04&theme=radical" alt="awesome04" width="400" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evansachie&theme=radical" alt="evansachie" width="400" />
 </p>
 
 <br/>
 
-![ Evans' GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AWESOME04&show_icons=true&theme=radical)
+![ Evans' GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=evansachie&show_icons=true&theme=radical)
 
 
 ### ✍️ Random Dev Quote
