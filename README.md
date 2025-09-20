@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [LifeGuard](https://github.com/evansachie/LifeGuard)
 
-- 🌱 I’m learning **[Backend Development with .NET core](https://github.com/evansachie/a2sv-project-phase) and [DSA](https://github.com/evansachie/Competitive-Programming)**
+- 🌱 I’m learning **[Full Stack JavaScript on The Odin Project](https://github.com/evansachie/The-Odin-Project)**
   
 - 🎮 I'm a gamer, and my favorite game genres are: **fps, mmo-rpg, and strategy**
   
-- 😁✌️ Enthusiastic about UI/UX Design, Full stack development, and ANIME.
+- 😁✌️ Enthusiastic about UI/UX Design, Full-stack development, and ANIME.
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/evansachie?tab=repositories)
   
