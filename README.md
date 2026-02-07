@@ -1,26 +1,24 @@
-![github-header-image](https://github.com/AWESOME04/AWESOME04/assets/102630199/a446339b-c8b5-4756-bbe4-ad39c50eae89)
+![github-header-image](https://github.com/user-attachments/assets/abea0c6c-a316-4299-a9c6-aafdd1fbe060)
 
 <p>
   <h3> Few words about Me</h3>
   <img align="right" widht="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
   
-- 🖥️ Computer Engineering student & Aspiring Full-Stack developer.
+- 🖥️ Computer Engineering new grad, swe, indie hacker, meme & anime enthusiast...
 
-- 🔭 I’m currently working on [LifeGuard](https://github.com/evansachie/LifeGuard)
-
-- 🌱 I’m learning **[Full Stack JavaScript on The Odin Project](https://github.com/evansachie/The-Odin-Project)**
+- 🔨 Working on a bunch of cool stuff... feel free to ask for a collab
   
 - 🎮 I'm a gamer, and my favorite game genres are: **fps, mmo-rpg, and strategy**
   
-- 😁✌️ Enthusiastic about UI/UX Design, Full-stack development, and ANIME.
+- 😁 Enthusiastic about UI/UX design, full-stack development, and anime (AoT, FMA & JJK are my favorites)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/evansachie?tab=repositories)
   
-- 💬 Ask me about **Attack on Titan**
+- 💬 Ask me about Attack on Titan
  
 - 📫 How to reach me: **evansachie01@gmail.com**
 
-- ⚡ Fun fact: **I LOVE ANIME** 
+- ⚡ Fun fact: I love anime and have cool-shaped eyebrows 🤨
 
 </p>
 
