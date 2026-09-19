@@ -1,5 +1,8 @@
 ![github-header-image](https://github.com/user-attachments/assets/abea0c6c-a316-4299-a9c6-aafdd1fbe060)
 
+<h3 align="left">Hi there, I'm Evans 👋</h3>
+<p align="left">Full-stack developer based in Accra, Ghana...always down to build awesome stuff with code.</p>
+
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
@@ -42,11 +45,11 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=evansachie&show_icons=true&locale=en&layout=compact&theme=radical&line_height=40&hide=css" alt="evansachie" width="400" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=evansachie&layout=compact&hide_title=true&langs_count=4&theme=radical&hide=c,dart,jupyter%20notebook,cpp" alt="evansachie" width="400" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=evansachie&theme=radical" alt="evansachie" width="400" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=evansachie&show_icons=true&theme=radical" alt="Evans' GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=evansachie&hide_title=true&show_icons=true&include_all_commits=true&theme=radical" alt="Evans' GitHub stats" />
 </p>
